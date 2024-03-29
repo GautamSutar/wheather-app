@@ -1,0 +1,116 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+    background-color:rgb(61, 61, 143);
+}
+
+.wheather-app{
+    font-size: 60px;
+}       
+.custom-search {
+    background-color:rgb(198, 198, 219);  
+    border-color:blue;
+    color:white;
+}
+
+#update{
+    font-size: 50px;
+}
+.goa {
+    font-size: 50px;
+  
+}
+.clear{
+    font-size: 50px;
+}
+.indian-flag{
+    height:60px;
+}
+.glass{
+    background-color:rgb(19, 19, 100);
+    color:white;
+    margin-left:10px;
+    width:50px;
+    height:50px;
+    border-radius: 20px;
+}
+.dibbe{
+    margin-left:4%;
+
+}
+.bade-bade-box{
+    margin-left:83px;
+}
+.wind-speed{
+    margin-right:170px;
+    width:350px;
+    height:325px;
+    background-color: rgb(155, 155, 189);
+    border-radius: 20px;
+    position: relative;
+}
+.humidity{
+    margin-right:170px;
+    display: flex;
+    width:350px;
+    height:325px;
+    background-color: rgb(155, 155, 189);
+    border-radius: 20px;
+    position: relative;
+}
+.clouds{
+    margin-right:170px;
+    width:350px;
+    height:325px;
+    background-color: rgb(155, 155, 189);
+    border-radius: 20px;
+    position: relative;
+}
+.wind-i{
+    color: rgb(91, 91, 197);
+    position: absolute;
+    left:120px;
+    top:80px;
+}
+.humidity-img
+{
+    color: yellow;
+    position: absolute;
+    left:120px;
+    top:70px;
+    width:85px;
+    
+}
+.clouds-i{
+    color:rgb(47, 47, 196);
+    position: absolute;
+    left:120px;
+    top:80px;
+
+}
+.text-wind{
+    position: absolute;
+    left:36px;
+    top:150px;
+    color:white;
+    font-weight: bold;
+    font-size: 50px;
+}
+.text-humidity{
+    position: absolute;
+    left:38px;
+    top:150px;
+    color:white;
+    font-weight: bold;
+    font-size: 50px;
+}
+.text-clouds{
+    position: absolute;
+    left:78px;
+    top:150px;
+    color:white;
+    font-weight: bold;
+    font-size: 50px;
+}
